@@ -121,7 +121,7 @@
 
             <artifactId>logback-core</artifactId>
 
-            <version>1.2.11</version>
+            <version>1.5.19</version>
 
         </dependency>
 
@@ -132,7 +132,7 @@
 
             <artifactId>logback-classic</artifactId>
 
-            <version>1.2.11</version>
+            <version>1.5.14</version>
 
         </dependency>
 
